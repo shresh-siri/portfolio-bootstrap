@@ -1,0 +1,60 @@
+.Personal Portfolio Website
+Create a professional personal portfolio website to showcase your profile, skills, projects, achievements,
+and contact information.
+Functional Requirements
+Section 1: Home
+Display:
+• Profile Photo
+• Name
+• Designation
+• Short Introduction
+• Resume Download Button
+Section 2: About Me
+Include:
+• Educational Details
+• Career Objective
+• Personal Interests
+Section 3: Skills
+Display technical skills using:
+• Progress Bars
+• Skill Cards
+Example:
+Skill Proficiency
+HTML 90%
+CSS 85%
+Bootstrap 80%
+JavaScript 75%
+Section 4: Projects
+Display at least 4 projects.
+Each project card should contain:
+• Project Title
+• Project Description
+• Technologies Used
+• GitHub Link
+Section 5: Achievements
+Include:
+• Certifications
+• Workshops
+• Internships
+• Awards
+Use cards or timeline layout.
+Section 6: Contact
+Create a contact form with:
+• Name
+• Email
+• Subject
+• Message
+Bootstrap Components Required
+• Navbar
+• Cards
+• Progress Bars
+• Forms
+• Buttons
+• Modal
+• Grid System
+GitHub Tasks
+1. Create repository named Portfolio
+2. Upload source code
+3. Maintain commit history
+4. Create README with screenshots
+5. Add project description
